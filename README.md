@@ -23,3 +23,5 @@ This notebook features some basic data cleaning and EDA while attempting to answ
 	10. Who is the most popular actor?
 
 The dataset contains information about Netflix content up until September 2021.
+
+Note: Please copy the address of my jupyter notebook into the following viewer to see the Plotly graphs: https://nbviewer.org/
